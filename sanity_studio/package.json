@@ -1,0 +1,35 @@
+{
+  "name": "medium",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This project is part of a [tutorial series](https://www.youtube.com/watch?v=I2dcpatq54o) which consists in the development of a simple medium front end clone **for educational purposes**",
+  "main": "package.json",
+  "author": "Someone Else <joaocurveira13@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^2.30.4",
+    "@sanity/core": "^2.30.3",
+    "@sanity/default-layout": "^2.30.4",
+    "@sanity/default-login": "^2.30.4",
+    "@sanity/desk-tool": "^2.30.4",
+    "@sanity/eslint-config-studio": "^2.0.0",
+    "@sanity/vision": "^2.30.4",
+    "eslint": "^8.6.0",
+    "prop-types": "^15.7",
+    "react": "^17.0",
+    "react-dom": "^17.0",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joaocosteira/medium.git"
+  }
+}
