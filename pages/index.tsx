@@ -14,6 +14,9 @@ const Home: NextPage = () => {
 
       <Header />
       <Banner />
+
+      {/** Posts */}
+      {/** Posts */}
     </div>
   )
 }
