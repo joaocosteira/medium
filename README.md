@@ -9,4 +9,5 @@ This project is part of a [tutorial series](https://www.youtube.com/watch?v=I2dc
 - Sanity CMS
 - Tailwind
 - GROQ
-- react-portable-text
+- react portable text
+- react hook form
