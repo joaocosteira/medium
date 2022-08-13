@@ -11,3 +11,6 @@ This project is part of a [tutorial series](https://www.youtube.com/watch?v=I2dc
 - GROQ
 - react portable text
 - react hook form
+
+### Backend
+The backend studio is accessable [here](https://blogappsimilartomediumstudio.sanity.studio/)
